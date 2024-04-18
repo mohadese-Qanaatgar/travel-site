@@ -1,5 +1,5 @@
 :root {
-  --orange: #e76f51;
+  --orange: #FBC02D;
   --secondry-color: #f8e1db;
   --white: #fff;
   --grey: #d2d2d2;
@@ -62,7 +62,7 @@ a {
 
 .header {
   background: linear-gradient(rgba(59, 55, 53, 0.5), rgba(59, 55, 53, 0.5)),
-    url(../images/header-bg.jpg);
+    url(https://hotel-xenia.plethorathemes.com/wp-content/uploads/2017/01/slide_n_2_o.jpg);
   background-position: center;
   background-size: cover;
   min-height: 67rem;
